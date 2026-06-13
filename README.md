@@ -1,6 +1,6 @@
 # Suricata-Detection-Engineering-Lab
 
-# Suricata Detection Engineering Lab
+
 
 ## Overview
 
